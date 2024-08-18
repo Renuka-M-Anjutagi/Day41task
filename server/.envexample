@@ -1,4 +1,7 @@
-PORT=5001
-MONGO_URL='mongodb+srv://<admin>:<password>@<serverlocation>'
-JWT_SECRET=asdfasd
-SESSION_SECRET=asdfa
+PORT = 5001
+
+MONGO_URL = 'mongodb+srv://renukac2:123456ABC@mongodb1.fv4wdqy.mongodb.net/ecommerce'
+
+JWT_SECRET = jdZAVkLkVQLMmYlt
+
+SERVER_APP_API = https://artofgallery11234.netlify.app
